@@ -1,0 +1,6 @@
+@Backed_Guitarras_HostAddress = http://localhost:5268
+
+GET {{Backed_Guitarras_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Daniel Salazar\\Desktop\\Desarrollo Web Integral\\Actividades\\Examen2doParcial\\Backed_Guitarras\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77290B30-FAB1-4620-AE4E-7322BFE6EF82}|Backed_Guitarras\\Backend_Guitarras.csproj|c:\\users\\daniel salazar\\desktop\\desarrollo web integral\\actividades\\examen2doparcial\\backed_guitarras\\backed_guitarras\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77290B30-FAB1-4620-AE4E-7322BFE6EF82}|Backed_Guitarras\\Backend_Guitarras.csproj|solutionrelative:backed_guitarras\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77290B30-FAB1-4620-AE4E-7322BFE6EF82}|Backed_Guitarras\\Backend_Guitarras.csproj|c:\\users\\daniel salazar\\desktop\\desarrollo web integral\\actividades\\examen2doparcial\\backed_guitarras\\backed_guitarras\\controllers\\guitarrascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77290B30-FAB1-4620-AE4E-7322BFE6EF82}|Backed_Guitarras\\Backend_Guitarras.csproj|solutionrelative:backed_guitarras\\controllers\\guitarrascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77290B30-FAB1-4620-AE4E-7322BFE6EF82}|Backed_Guitarras\\Backend_Guitarras.csproj|c:\\users\\daniel salazar\\desktop\\desarrollo web integral\\actividades\\examen2doparcial\\backed_guitarras\\backed_guitarras\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{77290B30-FAB1-4620-AE4E-7322BFE6EF82}|Backed_Guitarras\\Backend_Guitarras.csproj|solutionrelative:backed_guitarras\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77290B30-FAB1-4620-AE4E-7322BFE6EF82}|Backed_Guitarras\\Backend_Guitarras.csproj|c:\\users\\daniel salazar\\desktop\\desarrollo web integral\\actividades\\examen2doparcial\\backed_guitarras\\backed_guitarras\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77290B30-FAB1-4620-AE4E-7322BFE6EF82}|Backed_Guitarras\\Backend_Guitarras.csproj|solutionrelative:backed_guitarras\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77290B30-FAB1-4620-AE4E-7322BFE6EF82}|Backed_Guitarras\\Backend_Guitarras.csproj|c:\\users\\daniel salazar\\desktop\\desarrollo web integral\\actividades\\examen2doparcial\\backed_guitarras\\backed_guitarras\\models\\guitarra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77290B30-FAB1-4620-AE4E-7322BFE6EF82}|Backed_Guitarras\\Backend_Guitarras.csproj|solutionrelative:backed_guitarras\\models\\guitarra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77290B30-FAB1-4620-AE4E-7322BFE6EF82}|Backed_Guitarras\\Backend_Guitarras.csproj|c:\\users\\daniel salazar\\desktop\\desarrollo web integral\\actividades\\examen2doparcial\\backed_guitarras\\backed_guitarras\\models\\guitarrasexamencontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77290B30-FAB1-4620-AE4E-7322BFE6EF82}|Backed_Guitarras\\Backend_Guitarras.csproj|solutionrelative:backed_guitarras\\models\\guitarrasexamencontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77290B30-FAB1-4620-AE4E-7322BFE6EF82}|Backed_Guitarras\\Backend_Guitarras.csproj|c:\\users\\daniel salazar\\desktop\\desarrollo web integral\\actividades\\examen2doparcial\\backed_guitarras\\backed_guitarras\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77290B30-FAB1-4620-AE4E-7322BFE6EF82}|Backed_Guitarras\\Backend_Guitarras.csproj|solutionrelative:backed_guitarras\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoriasController.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel Salazar\\Desktop\\Desarrollo Web Integral\\Actividades\\Examen2doParcial\\Backed_Guitarras\\Backed_Guitarras\\Controllers\\CategoriasController.cs",
+              "RelativeDocumentMoniker": "Backed_Guitarras\\Controllers\\CategoriasController.cs",
+              "ToolTip": "C:\\Users\\Daniel Salazar\\Desktop\\Desarrollo Web Integral\\Actividades\\Examen2doParcial\\Backed_Guitarras\\Backed_Guitarras\\Controllers\\CategoriasController.cs",
+              "RelativeToolTip": "Backed_Guitarras\\Controllers\\CategoriasController.cs",
+              "ViewState": "AQIAABQAAACALjMzMzMHwBwAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T02:35:38.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GuitarrasController.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel Salazar\\Desktop\\Desarrollo Web Integral\\Actividades\\Examen2doParcial\\Backed_Guitarras\\Backed_Guitarras\\Controllers\\GuitarrasController.cs",
+              "RelativeDocumentMoniker": "Backed_Guitarras\\Controllers\\GuitarrasController.cs",
+              "ToolTip": "C:\\Users\\Daniel Salazar\\Desktop\\Desarrollo Web Integral\\Actividades\\Examen2doParcial\\Backed_Guitarras\\Backed_Guitarras\\Controllers\\GuitarrasController.cs",
+              "RelativeToolTip": "Backed_Guitarras\\Controllers\\GuitarrasController.cs",
+              "ViewState": "AQIAABIAAAAANTMzMzMbwBwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T02:01:18.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Daniel Salazar\\Desktop\\Desarrollo Web Integral\\Actividades\\Examen2doParcial\\Backed_Guitarras\\Backed_Guitarras\\appsettings.json",
+              "RelativeDocumentMoniker": "Backed_Guitarras\\appsettings.json",
+              "ToolTip": "C:\\Users\\Daniel Salazar\\Desktop\\Desarrollo Web Integral\\Actividades\\Examen2doParcial\\Backed_Guitarras\\Backed_Guitarras\\appsettings.json",
+              "RelativeToolTip": "Backed_Guitarras\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-02T01:58:04.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel Salazar\\Desktop\\Desarrollo Web Integral\\Actividades\\Examen2doParcial\\Backed_Guitarras\\Backed_Guitarras\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "Backed_Guitarras\\Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\Daniel Salazar\\Desktop\\Desarrollo Web Integral\\Actividades\\Examen2doParcial\\Backed_Guitarras\\Backed_Guitarras\\Models\\Categoria.cs",
+              "RelativeToolTip": "Backed_Guitarras\\Models\\Categoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T01:55:37.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Guitarra.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel Salazar\\Desktop\\Desarrollo Web Integral\\Actividades\\Examen2doParcial\\Backed_Guitarras\\Backed_Guitarras\\Models\\Guitarra.cs",
+              "RelativeDocumentMoniker": "Backed_Guitarras\\Models\\Guitarra.cs",
+              "ToolTip": "C:\\Users\\Daniel Salazar\\Desktop\\Desarrollo Web Integral\\Actividades\\Examen2doParcial\\Backed_Guitarras\\Backed_Guitarras\\Models\\Guitarra.cs",
+              "RelativeToolTip": "Backed_Guitarras\\Models\\Guitarra.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T01:55:52.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GuitarrasExamenContext.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel Salazar\\Desktop\\Desarrollo Web Integral\\Actividades\\Examen2doParcial\\Backed_Guitarras\\Backed_Guitarras\\Models\\GuitarrasExamenContext.cs",
+              "RelativeDocumentMoniker": "Backed_Guitarras\\Models\\GuitarrasExamenContext.cs",
+              "ToolTip": "C:\\Users\\Daniel Salazar\\Desktop\\Desarrollo Web Integral\\Actividades\\Examen2doParcial\\Backed_Guitarras\\Backed_Guitarras\\Models\\GuitarrasExamenContext.cs",
+              "RelativeToolTip": "Backed_Guitarras\\Models\\GuitarrasExamenContext.cs",
+              "ViewState": "AQIAABwAAAAAaWZmZmYWwCwAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T01:55:19.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel Salazar\\Desktop\\Desarrollo Web Integral\\Actividades\\Examen2doParcial\\Backed_Guitarras\\Backed_Guitarras\\Program.cs",
+              "RelativeDocumentMoniker": "Backed_Guitarras\\Program.cs",
+              "ToolTip": "C:\\Users\\Daniel Salazar\\Desktop\\Desarrollo Web Integral\\Actividades\\Examen2doParcial\\Backed_Guitarras\\Backed_Guitarras\\Program.cs",
+              "RelativeToolTip": "Backed_Guitarras\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAqwBkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T01:53:46.749Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
